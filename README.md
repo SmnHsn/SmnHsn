@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi everyone!
+
+I am a civil engineer specialized in geotechnical engineering.
+
+I am currenlty acquiring new skills in data science at LeWagon bootcamp.
 
 <!--
 **SmnHsn/SmnHsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
