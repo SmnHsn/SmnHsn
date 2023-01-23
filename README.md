@@ -1,8 +1,6 @@
-### Hi everyone!
+### Hi everyone,
 
-I am a civil engineer specialized in geotechnical engineering.
-
-I am currenlty acquiring new skills in data science at LeWagon bootcamp.
+I am a civil engineer specialized in geotechnical engineering and a Data Analyst!
 
 ### Languages
 
