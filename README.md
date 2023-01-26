@@ -1,6 +1,6 @@
 ### Hi everyone,
 
-I am a civil engineer specialized in geotechnical engineering and a Data Analyst!
+With a civil engineering background I recently turned to the exciting domain of Data Science.
 
 ### Languages
 
