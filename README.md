@@ -1,7 +1,5 @@
 ### Hi everyone,
 
-With a civil engineering background I recently turned to the exciting domain of Data Science.
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
